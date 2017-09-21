@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Salesforce101</string>
+
+    <!--API key -->
+    <string name="api_key"></string>
+    <string name="offline_message">Something wrong with the network</string>
+</resources>
